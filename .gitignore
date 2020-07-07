@@ -1,5 +1,4 @@
-log/file.log.txt
-log.txt
-/log/
-/log/*.txt
 *log.txt
+/log/
+
+
