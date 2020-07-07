@@ -1,2 +1,0 @@
-log file is created
-updated log to verify gitignore
